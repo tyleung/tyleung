@@ -1,4 +1,5 @@
-## Hi there, I'm Terence 👋
+[<img src="https://raw.githubusercontent.com/tyleung/tyleung/master/readme-intro.gif" alt="Hi, I'm Terence 👋" title="Hi, I'm Terence 👋"/>](https://tyleung.github.io/)
+
 - 🔭 I’m currently working as a Quantitative Developer in the blockchain industry
 - 🌱 I’m currently learning DeFi and dApp development
 - 👯 I’m looking to collaborate on projects that make the web more accesible to the world
