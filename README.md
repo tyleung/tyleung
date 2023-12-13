@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Developer in the blockchain industry
 - 🌱 I’m currently learning DeFi and dApp development
 - 👯 I’m looking to collaborate on projects that make the web more accesible to the world
-- 💬 Ask me about Blockchain/Web3, Web Development, WFH life
+- 💬 Ask me about Blockchain/Web3, Full Stack Development, WFH life
 <!-- - 🎮 Fun fact: I'm a kendama enthusiast -->
 
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=Sass&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
